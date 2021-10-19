@@ -1,0 +1,18 @@
+SW - smd switch
+B1 - button
+DISP1 - Module SSD1306 128x32
+BAT - Accumulator
+CN1 - Micro Usb
+U1 - stm32f030f4p6
+U2 - MCP1700T-2502
+U3 - TP4056
+LG - smd led green 0805
+LR - smd led red 0805
+C1 - 47 nF 0805
+C2 - 1 uF 0805
+C3 - 10 uF 0805
+C4 - 10 uF 0805
+R1 - 47 kOhm 0805
+R2 - 22 Ohm 0805
+R3 - 1 kOhm 0805
+R4 - 12 kOhm 0805
